@@ -15,6 +15,7 @@
 		EA51E16A2B67872E00BDFA38 /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E1692B67872E00BDFA38 /* FavoritesListVC.swift */; };
 		EA51E16C2B678C6100BDFA38 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E16B2B678C6100BDFA38 /* GFButton.swift */; };
 		EA51E16E2B678FE800BDFA38 /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E16D2B678FE800BDFA38 /* GFTextField.swift */; };
+		EA51E1702B679D8600BDFA38 /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E16F2B679D8600BDFA38 /* FollowerListVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		EA51E1692B67872E00BDFA38 /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
 		EA51E16B2B678C6100BDFA38 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 		EA51E16D2B678FE800BDFA38 /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
+		EA51E16F2B679D8600BDFA38 /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				EA51E1692B67872E00BDFA38 /* FavoritesListVC.swift */,
 				EA51E16B2B678C6100BDFA38 /* GFButton.swift */,
 				EA51E16D2B678FE800BDFA38 /* GFTextField.swift */,
+				EA51E16F2B679D8600BDFA38 /* FollowerListVC.swift */,
 			);
 			path = GHfollowers;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				EA51E16A2B67872E00BDFA38 /* FavoritesListVC.swift in Sources */,
 				EA51E16C2B678C6100BDFA38 /* GFButton.swift in Sources */,
 				EA51E1682B67870000BDFA38 /* SearchVC.swift in Sources */,
+				EA51E1702B679D8600BDFA38 /* FollowerListVC.swift in Sources */,
 				EA51E1542B677F8D00BDFA38 /* AppDelegate.swift in Sources */,
 				EA51E1562B677F8D00BDFA38 /* SceneDelegate.swift in Sources */,
 			);
