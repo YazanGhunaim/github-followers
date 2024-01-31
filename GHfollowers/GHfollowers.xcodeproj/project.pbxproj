@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA29E7F32B6A809C00752CFC /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA29E7F22B6A809C00752CFC /* UIHelper.swift */; };
 		EA51E1542B677F8D00BDFA38 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E1532B677F8D00BDFA38 /* AppDelegate.swift */; };
 		EA51E1562B677F8D00BDFA38 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E1552B677F8D00BDFA38 /* SceneDelegate.swift */; };
 		EA51E15D2B677F8F00BDFA38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA51E15C2B677F8F00BDFA38 /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA29E7F22B6A809C00752CFC /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 		EA51E1502B677F8D00BDFA38 /* GHfollowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GHfollowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA51E1532B677F8D00BDFA38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EA51E1552B677F8D00BDFA38 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				EA51E1892B6A443200BDFA38 /* GFError.swift */,
+				EA29E7F22B6A809C00752CFC /* UIHelper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				EA51E16A2B67872E00BDFA38 /* FavoritesListVC.swift in Sources */,
 				EA51E16C2B678C6100BDFA38 /* GFButton.swift in Sources */,
 				EA51E17A2B69850D00BDFA38 /* UIViewController+Ext.swift in Sources */,
+				EA29E7F32B6A809C00752CFC /* UIHelper.swift in Sources */,
 				EA51E18F2B6A4C8000BDFA38 /* GFAvatarImageView.swift in Sources */,
 				EA51E1682B67870000BDFA38 /* SearchVC.swift in Sources */,
 				EA51E18D2B6A4AAD00BDFA38 /* GFFollowerCell.swift in Sources */,
