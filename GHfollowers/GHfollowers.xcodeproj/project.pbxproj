@@ -23,7 +23,7 @@
 		EA51E1812B698F1800BDFA38 /* Follower.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E1802B698F1800BDFA38 /* Follower.swift */; };
 		EA51E1832B69901600BDFA38 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E1822B69901600BDFA38 /* User.swift */; };
 		EA51E1862B6A39B200BDFA38 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E1852B6A39B200BDFA38 /* NetworkManager.swift */; };
-		EA51E18A2B6A443200BDFA38 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E1892B6A443200BDFA38 /* ErrorMessage.swift */; };
+		EA51E18A2B6A443200BDFA38 /* GFError.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA51E1892B6A443200BDFA38 /* GFError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,7 +45,7 @@
 		EA51E1802B698F1800BDFA38 /* Follower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Follower.swift; sourceTree = "<group>"; };
 		EA51E1822B69901600BDFA38 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		EA51E1852B6A39B200BDFA38 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
-		EA51E1892B6A443200BDFA38 /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
+		EA51E1892B6A443200BDFA38 /* GFError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,7 +151,7 @@
 		EA51E1872B6A441C00BDFA38 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
-				EA51E1892B6A443200BDFA38 /* ErrorMessage.swift */,
+				EA51E1892B6A443200BDFA38 /* GFError.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -233,7 +233,7 @@
 				EA51E17A2B69850D00BDFA38 /* UIViewController+Ext.swift in Sources */,
 				EA51E1682B67870000BDFA38 /* SearchVC.swift in Sources */,
 				EA51E1762B697E4B00BDFA38 /* GFAlertVC.swift in Sources */,
-				EA51E18A2B6A443200BDFA38 /* ErrorMessage.swift in Sources */,
+				EA51E18A2B6A443200BDFA38 /* GFError.swift in Sources */,
 				EA51E1742B697D2900BDFA38 /* GFBodyLabel.swift in Sources */,
 				EA51E1812B698F1800BDFA38 /* Follower.swift in Sources */,
 				EA51E1722B697B9F00BDFA38 /* GFTitleLabel.swift in Sources */,
